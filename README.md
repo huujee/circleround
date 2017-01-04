@@ -22,6 +22,15 @@ First, when user activate Circle Round, the device emitsred ambient light. Then 
 -View sharing and editing scenario<br>
 Each two concentric dials perform different functions individually. Outer dial shares view and inner dial qualifies editing authority rotationally. We will explainuse Circle Round in a small group communication as follows. When PCs connect with the device through Wi-Fi, all PC are ready to perform for sharingand editing at systemic level. After setting direction, when someone turns outer-dial(view) to user2, screen of user2 display to all users in real-time. After that, when another user turns inner-dial to user1, device qualifies authority to user1. Then user1 can edit contents of the user2 now. In that way, members using device can experience intuitive feedback. In addition, inner-dial has ‘click’ function; user can input executive commands and quit all current connections. Computing environment can work in parallel with the existing personal environment by a toggle key.
 
+Code
+====
+Linux Application (on odroid board in the device)<br>
+: https://github.com/huujee/circleround/tree/master/code/Device/TcpServer
+
+Windows Application (on each user's PC)<br>
+Client Code: https://github.com/huujee/circleround/tree/master/code/PC/Client<br>
+TightVNC Code: https://github.com/huujee/circleround/tree/master/code/PC/TightVNC
+
 How to use
 ====
 Now Progressing
