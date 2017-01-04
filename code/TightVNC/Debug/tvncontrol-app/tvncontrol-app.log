@@ -1,0 +1,59 @@
+﻿빌드 시작: 2015-09-23 오후 7:00:20
+     1>4 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\tvncontrol-app.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvncontrol-app\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvncontrol-app\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AboutDialog.cpp ConnectCommand.cpp ConnectStringParser.cpp ControlApplication.cpp ControlAuth.cpp ControlAuthDialog.cpp ControlAuthException.cpp ControlCommand.cpp ControlCommandLine.cpp ControlGate.cpp ControlMessage.cpp ControlPipeName.cpp ControlProxy.cpp ControlTrayIcon.cpp DisconnectAllCommand.cpp MakeRfbConnectionCommand.cpp MakeTcpDispatcherConnCommand.cpp NamedPipeTransport.cpp Notificator.cpp OutgoingConnectionDialog.cpp ReloadConfigCommand.cpp RemoteException.cpp RfbClientInfo.cpp
+     1>cl : 명령줄 warning D9028: 최소 다시 빌드에 실패했습니다. 정상 빌드로 되돌립니다.
+         AboutDialog.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\aboutdialog.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ConnectCommand.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\connectcommand.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ConnectStringParser.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\connectstringparser.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlApplication.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlapplication.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlAuth.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlauth.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlAuthDialog.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlauthdialog.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlAuthException.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlauthexception.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlCommand.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlcommand.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlCommandLine.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlcommandline.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlGate.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlgate.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlMessage.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlmessage.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlPipeName.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlpipename.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlProxy.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controlproxy.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlTrayIcon.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\controltrayicon.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DisconnectAllCommand.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\disconnectallcommand.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         MakeRfbConnectionCommand.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\makerfbconnectioncommand.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         MakeTcpDispatcherConnCommand.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\maketcpdispatcherconncommand.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         NamedPipeTransport.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\namedpipetransport.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Notificator.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\notificator.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         OutgoingConnectionDialog.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\outgoingconnectiondialog.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         ReloadConfigCommand.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\reloadconfigcommand.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         RemoteException.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\remoteexception.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         RfbClientInfo.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\rfbclientinfo.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         코드를 생성하고 있습니다...
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\tvncontrol-app.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:09.37

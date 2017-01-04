@@ -1,0 +1,36 @@
+﻿빌드 시작: 2015-09-23 오후 7:00:18
+     1>3 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\desktop\desktop.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\desktop\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\desktop\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ApplicationDesktopFactory.cpp ClipboardListener.cpp ConsolePoller.cpp CopyRectDetector.cpp DesktopBaseImpl.cpp DesktopClientImpl.cpp DesktopConfigLocal.cpp DesktopServerWatcher.cpp DesktopWinImpl.cpp Win8CursorShape.cpp Win8DeskDuplicationThread.cpp WinCursorShapeUtils.cpp WinDxCriticalException.cpp
+         WinDxCriticalException.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\windxcriticalexception.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         WinCursorShapeUtils.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\wincursorshapeutils.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Win8DeskDuplicationThread.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\win8deskduplicationthread.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Win8CursorShape.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\win8cursorshape.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DesktopWinImpl.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\desktopwinimpl.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DesktopServerWatcher.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\desktopserverwatcher.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DesktopConfigLocal.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\desktopconfiglocal.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DesktopClientImpl.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\desktopclientimpl.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DesktopBaseImpl.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\desktopbaseimpl.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         CopyRectDetector.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\copyrectdetector.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ConsolePoller.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\consolepoller.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ClipboardListener.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\clipboardlistener.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ApplicationDesktopFactory.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\desktop\applicationdesktopfactory.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\debug\desktop\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         코드를 생성하고 있습니다...
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\desktop\desktop.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:08.90

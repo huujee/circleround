@@ -1,0 +1,37 @@
+﻿빌드 시작: 2015-09-23 오후 7:09:06
+     1>3 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\desktop-ipc\desktop-ipc.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\desktop-ipc\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\desktop-ipc\vc120.pdb" /Gd /TP /errorReport:prompt BlockingGate.cpp BlockingInputGate.cpp BlockingOutputGate.cpp ClientListener.cpp ConfigServer.cpp DesktopConfigClient.cpp DesktopServerProto.cpp DesktopSrvDispatcher.cpp GateKickHandler.cpp GateKicker.cpp ReconnectException.cpp ReconnectingChannel.cpp UpdateHandlerClient.cpp
+     1>cl : 명령줄 warning D9028: 최소 다시 빌드에 실패했습니다. 정상 빌드로 되돌립니다.
+         BlockingGate.cpp
+     1>BlockingGate.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         BlockingInputGate.cpp
+     1>BlockingInputGate.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         BlockingOutputGate.cpp
+     1>BlockingOutputGate.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ClientListener.cpp
+     1>ClientListener.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ConfigServer.cpp
+     1>ConfigServer.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DesktopConfigClient.cpp
+     1>DesktopConfigClient.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DesktopServerProto.cpp
+     1>DesktopServerProto.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DesktopSrvDispatcher.cpp
+     1>DesktopSrvDispatcher.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         GateKickHandler.cpp
+     1>GateKickHandler.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         GateKicker.cpp
+     1>GateKicker.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ReconnectException.cpp
+     1>ReconnectException.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ReconnectingChannel.cpp
+     1>ReconnectingChannel.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         UpdateHandlerClient.cpp
+     1>UpdateHandlerClient.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\desktop-ipc\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         코드를 생성하고 있습니다...
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\desktop-ipc\desktop-ipc.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:02.37

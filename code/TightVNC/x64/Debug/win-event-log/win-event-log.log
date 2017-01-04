@@ -1,0 +1,16 @@
+﻿빌드 시작: 2015-09-23 오후 7:02:26
+     1>2 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\win-event-log\win-event-log.vcxproj" 프로젝트(Build 대상)입니다.
+     1>_MessageCompiler:
+         cmd.exe /C "C:\Users\JooheeKim\AppData\Local\Temp\tmp5e235f806c634dda8e6f3947b0ded607.cmd"
+         mc.exe -U   MessageProvider.mc
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\win-event-log\MessageProvider.res" MessageProvider.rc 
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\win-event-log.lib" /NOLOGO /MACHINE:X64 /MACHINE:X64 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\win-event-log\MessageProvider.res"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\win-event-log\WinEventLog.obj"
+         win-event-log.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\win-event-log.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\win-event-log\win-event-log.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.20

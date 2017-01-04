@@ -1,0 +1,38 @@
+﻿빌드 시작: 2015-09-22 오후 6:08:01
+     1>5 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\wsconfig-lib\wsconfig-lib.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /I.. /ZI /nologo /W3 /WX- /Od /Ot /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt AdministrationConfigDialog.cpp ChangePasswordDialog.cpp CommonInputValidation.cpp ConfigDialog.cpp EditIpAccessRuleDialog.cpp EditPortMappingDialog.cpp IpAccessControlDialog.cpp PasswordControl.cpp PortMappingDialog.cpp ServerConfigDialog.cpp TvnLogFilename.cpp UIDataAccess.cpp VideoRegionsConfigDialog.cpp
+         VideoRegionsConfigDialog.cpp
+         UIDataAccess.cpp
+         TvnLogFilename.cpp
+         ServerConfigDialog.cpp
+         PortMappingDialog.cpp
+         PasswordControl.cpp
+         IpAccessControlDialog.cpp
+         EditPortMappingDialog.cpp
+         EditIpAccessRuleDialog.cpp
+         ConfigDialog.cpp
+         CommonInputValidation.cpp
+         ChangePasswordDialog.cpp
+         AdministrationConfigDialog.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib.lib" /NOLOGO "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\AdministrationConfigDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\ChangePasswordDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\CommonInputValidation.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\ConfigDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\EditIpAccessRuleDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\EditPortMappingDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\IpAccessControlDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\PasswordControl.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\PortMappingDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\ServerConfigDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\TvnLogFilename.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\UIDataAccess.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib\VideoRegionsConfigDialog.obj"
+         wsconfig-lib.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\wsconfig-lib.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\wsconfig-lib\wsconfig-lib.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:39.98

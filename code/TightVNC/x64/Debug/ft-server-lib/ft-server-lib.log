@@ -1,0 +1,16 @@
+﻿빌드 시작: 2015-09-23 오후 7:08:12
+     1>2 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\ft-server-lib\ft-server-lib.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D __WIN32__ /D _WINSTATIC /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\ft-server-lib\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\ft-server-lib\vc120.pdb" /Gd /TP /FC /errorReport:prompt FileTransferRequestHandler.cpp FileTransferSecurity.cpp
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         FileTransferSecurity.cpp
+         FileTransferRequestHandler.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\ft-server-lib.lib" /NOLOGO /MACHINE:X64 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\ft-server-lib\FileTransferRequestHandler.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\ft-server-lib\FileTransferSecurity.obj"
+         ft-server-lib.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\ft-server-lib.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\ft-server-lib\ft-server-lib.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.60

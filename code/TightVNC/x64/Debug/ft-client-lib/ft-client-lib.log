@@ -1,0 +1,31 @@
+﻿빌드 시작: 2015-09-23 오후 7:09:00
+     1>5 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\ft-client-lib\ft-client-lib.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D __WIN32__ /D _WINSTATIC /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\ft-client-lib\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\ft-client-lib\vc120.pdb" /Gd /TP /errorReport:prompt CopyOperation.cpp DownloadOperation.cpp FileInfoList.cpp FileTransferCore.cpp FileTransferEventAdapter.cpp FileTransferEventHandler.cpp FileTransferInterface.cpp FileTransferMessageProcessor.cpp FileTransferOperation.cpp FileTransferReplyBuffer.cpp
+     1>cl : 명령줄 warning D9028: 최소 다시 빌드에 실패했습니다. 정상 빌드로 되돌립니다.
+         CopyOperation.cpp
+     1>CopyOperation.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DownloadOperation.cpp
+     1>DownloadOperation.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         FileInfoList.cpp
+     1>FileInfoList.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         FileTransferCore.cpp
+     1>FileTransferCore.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         FileTransferEventAdapter.cpp
+     1>FileTransferEventAdapter.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         FileTransferEventHandler.cpp
+     1>FileTransferEventHandler.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         FileTransferInterface.cpp
+     1>FileTransferInterface.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         FileTransferMessageProcessor.cpp
+     1>FileTransferMessageProcessor.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         FileTransferOperation.cpp
+     1>FileTransferOperation.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         FileTransferReplyBuffer.cpp
+     1>FileTransferReplyBuffer.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\ft-client-lib\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         코드를 생성하고 있습니다...
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\ft-client-lib\ft-client-lib.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:03.76

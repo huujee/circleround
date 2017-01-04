@@ -1,0 +1,36 @@
+﻿빌드 시작: 2015-09-22 오후 6:10:34
+     1>4 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\rfb\rfb.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AuthDefs.cpp CursorShape.cpp FrameBuffer.cpp HostPath.cpp MsgDefs.cpp PixelFormat.cpp RfbKeySym.cpp StandardPixelFormatFactory.cpp TunnelDefs.cpp VendorDefs.cpp EncodingDefs.cpp PixelConverter.cpp
+         PixelConverter.cpp
+         EncodingDefs.cpp
+         VendorDefs.cpp
+         TunnelDefs.cpp
+         StandardPixelFormatFactory.cpp
+         RfbKeySym.cpp
+         PixelFormat.cpp
+         MsgDefs.cpp
+         HostPath.cpp
+         FrameBuffer.cpp
+         CursorShape.cpp
+         AuthDefs.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb.lib" /NOLOGO "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\AuthDefs.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\CursorShape.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\FrameBuffer.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\HostPath.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\MsgDefs.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\PixelFormat.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\RfbKeySym.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\StandardPixelFormatFactory.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\TunnelDefs.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\VendorDefs.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\EncodingDefs.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb\PixelConverter.obj"
+         rfb.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\rfb\rfb.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:19.31

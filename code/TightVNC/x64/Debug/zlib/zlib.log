@@ -1,0 +1,54 @@
+﻿빌드 시작: 2015-09-23 오후 7:05:24
+     1>3 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\zlib\zlib.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\vc120.pdb" /Gd /TC /errorReport:prompt adler32.c compress.c crc32.c deflate.c gzlib.c infback.c inffast.c inflate.c inftrees.c trees.c uncompr.c zutil.c
+         zutil.c
+         uncompr.c
+         trees.c
+         inftrees.c
+         inflate.c
+         inffast.c
+         infback.c
+         gzlib.c
+     1>gzlib.c(191): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(575) : 'wcstombs' 선언을 참조하십시오.
+     1>gzlib.c(206): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(575) : 'wcstombs' 선언을 참조하십시오.
+     1>gzlib.c(211): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>gzlib.c(239): warning C4996: '_wopen': This function or variable may be unsafe. Consider using _wsopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(274) : '_wopen' 선언을 참조하십시오.
+     1>gzlib.c(239): warning C4996: 'open': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _open. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\io.h(336) : 'open' 선언을 참조하십시오.
+     1>gzlib.c(287): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 'sprintf' 선언을 참조하십시오.
+     1>gzlib.c(597): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>gzlib.c(598): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : 'strcat' 선언을 참조하십시오.
+     1>gzlib.c(599): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : 'strcat' 선언을 참조하십시오.
+         deflate.c
+         crc32.c
+         compress.c
+         adler32.c
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib.lib" /NOLOGO /MACHINE:X64 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\adler32.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\compress.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\crc32.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\deflate.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\gzlib.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\infback.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\inffast.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\inflate.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\inftrees.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\trees.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\uncompr.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib\zutil.obj"
+         zlib.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\zlib.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\zlib\zlib.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:13.68

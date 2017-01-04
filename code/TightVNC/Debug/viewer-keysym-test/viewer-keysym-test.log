@@ -1,0 +1,20 @@
+﻿빌드 시작: 2015-09-23 오후 7:00:21
+     1>5 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\viewer-keysym-test\viewer-keysym-test.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\viewer-keysym-test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\viewer-keysym-test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\viewer-keysym-test.lib" /MACHINE:X86 /SAFESEH "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\viewer-keysym-test\KeySymTest.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\viewer-keysym-test\viewer-keysym-test.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\io-lib.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\log-server.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\log-writer.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\thread.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\util.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system.lib"
+     1>KeySymTest.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+         viewer-keysym-test.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\viewer-keysym-test.exe
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\viewer-keysym-test\viewer-keysym-test.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:45.46

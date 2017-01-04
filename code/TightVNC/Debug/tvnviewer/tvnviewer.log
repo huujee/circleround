@@ -1,0 +1,56 @@
+﻿빌드 시작: 2015-09-23 오후 7:00:28
+     1>3 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\tvnviewer\tvnviewer.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer.exe" /NOLOGO comctl32.lib "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\libjpeg-turbo\jpeg-static.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTDEPENDENCY:"type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='X86' publicKeyToken='6595b64144ccf1df' language='*'" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer.lib" /MACHINE:X86 /SAFESEH "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\tvnviewer.res"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\AboutDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\AuthenticationDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\BuildTime.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ConfigurationDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ConnectionData.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ConnectionListener.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ControlTrayIcon.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\DesktopWindow.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\FileExistDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\FileInfoListView.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\FileRenameDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\FileTransferMainDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\FsWarningDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\HelpDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\LoginDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\main.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\NamingDefs.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\NewFolderDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\OptionsDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ResourceStrings.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ScaleManager.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\TvnViewer.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ViewerCmdLine.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ViewerCollector.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ViewerInstance.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ViewerMenu.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ViewerVncAuthHandler.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer\ViewerWindow.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\client-config-lib.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\config-lib.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\ft-client-lib.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\ft-common.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\io-lib.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\log-writer.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\network.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\region.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\rfb.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\thread.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\util.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\viewer-core.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system.lib"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\zlib.lib"
+     1>AboutDialog.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+     1>libcpmtd.lib(xdebug.obj) : warning LNK4098: 'libcmt.lib' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+         tvnviewer.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnviewer.exe
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\tvnviewer\tvnviewer.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:01:43.88

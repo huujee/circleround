@@ -1,0 +1,90 @@
+﻿빌드 시작: 2015-09-22 오후 6:08:01
+     1>2 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\gui\gui.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt BalloonTip.cpp BaseDialog.cpp BaseWindow.cpp DibFrameBuffer.cpp drawing\Bitmap.cpp drawing\BitmapGraphics.cpp drawing\Brush.cpp CheckBox.cpp ComboBox.cpp CommonControlsEx.cpp Control.cpp drawing\DeviceContext.cpp FilteredTextBox.cpp drawing\Graphics.cpp drawing\Icon.cpp ImagedButton.cpp ListBox.cpp ListView.cpp Menu.cpp MessageWindow.cpp NotifyIcon.cpp NotifyIconWindow.cpp drawing\Pen.cpp PaintWindow.cpp ProgressBar.cpp drawing\SolidBrush.cpp ScrollBar.cpp SpinControl.cpp StringFilter.cpp Tab.cpp TabControl.cpp TextBox.cpp ThemeLib.cpp ToolBar.cpp Tooltip.cpp Trackbar.cpp WindowFinder.cpp WindowProcHolder.cpp
+         WindowProcHolder.cpp
+         WindowFinder.cpp
+         Trackbar.cpp
+         Tooltip.cpp
+         ToolBar.cpp
+         ThemeLib.cpp
+         TextBox.cpp
+         TabControl.cpp
+         Tab.cpp
+         StringFilter.cpp
+         SpinControl.cpp
+         ScrollBar.cpp
+         SolidBrush.cpp
+         ProgressBar.cpp
+         PaintWindow.cpp
+         Pen.cpp
+         NotifyIconWindow.cpp
+         NotifyIcon.cpp
+         MessageWindow.cpp
+         Menu.cpp
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         ListView.cpp
+         ListBox.cpp
+         ImagedButton.cpp
+         Icon.cpp
+         Graphics.cpp
+         FilteredTextBox.cpp
+         DeviceContext.cpp
+         Control.cpp
+         CommonControlsEx.cpp
+         ComboBox.cpp
+         CheckBox.cpp
+         Brush.cpp
+         BitmapGraphics.cpp
+         Bitmap.cpp
+         DibFrameBuffer.cpp
+         BaseWindow.cpp
+         BaseDialog.cpp
+         BalloonTip.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui.lib" /NOLOGO "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\BalloonTip.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\BaseDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\BaseWindow.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\DibFrameBuffer.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Bitmap.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\BitmapGraphics.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Brush.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\CheckBox.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\ComboBox.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\CommonControlsEx.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Control.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\DeviceContext.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\FilteredTextBox.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Graphics.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Icon.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\ImagedButton.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\ListBox.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\ListView.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Menu.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\MessageWindow.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\NotifyIcon.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\NotifyIconWindow.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Pen.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\PaintWindow.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\ProgressBar.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\SolidBrush.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\ScrollBar.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\SpinControl.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\StringFilter.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Tab.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\TabControl.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\TextBox.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\ThemeLib.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\ToolBar.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Tooltip.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\Trackbar.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\WindowFinder.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui\WindowProcHolder.obj"
+         gui.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\gui.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\gui\gui.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:01:22.30

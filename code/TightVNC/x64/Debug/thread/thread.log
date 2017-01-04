@@ -1,0 +1,28 @@
+﻿빌드 시작: 2015-09-23 오후 7:06:17
+     1>4 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\thread\thread.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\vc120.pdb" /Gd /TP /FC /errorReport:prompt AutoLock.cpp DesktopSelector.cpp GlobalMutex.cpp GuiThread.cpp LocalMutex.cpp Thread.cpp ThreadCollector.cpp ZombieKiller.cpp
+         ZombieKiller.cpp
+         ThreadCollector.cpp
+         Thread.cpp
+         LocalMutex.cpp
+         GuiThread.cpp
+         GlobalMutex.cpp
+         DesktopSelector.cpp
+         AutoLock.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread.lib" /NOLOGO /MACHINE:X64 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\AutoLock.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\DesktopSelector.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\GlobalMutex.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\GuiThread.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\LocalMutex.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\Thread.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\ThreadCollector.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread\ZombieKiller.obj"
+         thread.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\thread.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\thread\thread.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:21.51

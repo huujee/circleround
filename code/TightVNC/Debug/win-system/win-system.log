@@ -1,0 +1,118 @@
+﻿빌드 시작: 2015-09-22 오후 6:07:04
+     1>4 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\win-system\win-system.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.. /I. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt AnonymousPipe.cpp AnonymousPipeFactory.cpp AutoImpersonator.cpp CtrlAltDelSimulator.cpp CurrentConsoleProcess.cpp DibSection.cpp DynamicLibrary.cpp Environment.cpp Impersonator.cpp InputInjector.cpp Keyboard.cpp LocalWindowsApplication.cpp NamedPipe.cpp ParentProcess.cpp Pipe.cpp PipeClient.cpp PipeImpersonatedThread.cpp PipeServer.cpp Process.cpp ProcessHandle.cpp Registry.cpp RegistryKey.cpp SCMClient.cpp Screen.cpp SecurityAttributes.cpp security\SecurityDescriptor.cpp security\SecurityIdentifier.cpp Service.cpp SharedMemory.cpp Shell.cpp SystemException.cpp SystemInformation.cpp UipiControl.cpp VersionInfo.cpp WinClipboard.cpp WinCommandLineArgs.cpp WinCursor.cpp WindowsApplication.cpp WindowsDisplays.cpp WindowsEvent.cpp WindowsEventEx.cpp WinHandles.cpp WinHooks.cpp WinProcessCommandLine.cpp WinStaLibrary.cpp WinTimeMillis.cpp Workstation.cpp WsaStartup.cpp WTS.cpp
+         WTS.cpp
+         WsaStartup.cpp
+         Workstation.cpp
+         WinTimeMillis.cpp
+         WinStaLibrary.cpp
+         WinProcessCommandLine.cpp
+         WinHooks.cpp
+         WinHandles.cpp
+         WindowsEventEx.cpp
+         WindowsEvent.cpp
+         WindowsDisplays.cpp
+         WindowsApplication.cpp
+         WinCursor.cpp
+         WinCommandLineArgs.cpp
+         WinClipboard.cpp
+         VersionInfo.cpp
+         UipiControl.cpp
+         SystemInformation.cpp
+         SystemException.cpp
+         Shell.cpp
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         SharedMemory.cpp
+         Service.cpp
+         SecurityIdentifier.cpp
+         SecurityDescriptor.cpp
+         SecurityAttributes.cpp
+         Screen.cpp
+         SCMClient.cpp
+         RegistryKey.cpp
+         Registry.cpp
+         ProcessHandle.cpp
+         Process.cpp
+         PipeServer.cpp
+         PipeImpersonatedThread.cpp
+         PipeClient.cpp
+         Pipe.cpp
+         ParentProcess.cpp
+         NamedPipe.cpp
+         LocalWindowsApplication.cpp
+         Keyboard.cpp
+         InputInjector.cpp
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         Impersonator.cpp
+         Environment.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\environment.cpp(200): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+                 c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442) : 'GetVersionExW' 선언을 참조하십시오.
+         DynamicLibrary.cpp
+         DibSection.cpp
+         CurrentConsoleProcess.cpp
+         CtrlAltDelSimulator.cpp
+         AutoImpersonator.cpp
+         AnonymousPipeFactory.cpp
+         AnonymousPipe.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system.lib" Wtsapi32.lib psapi.lib /NOLOGO "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\AnonymousPipe.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\AnonymousPipeFactory.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\AutoImpersonator.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\CtrlAltDelSimulator.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\CurrentConsoleProcess.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\DibSection.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\DynamicLibrary.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Environment.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Impersonator.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\InputInjector.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Keyboard.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\LocalWindowsApplication.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\NamedPipe.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\ParentProcess.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Pipe.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\PipeClient.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\PipeImpersonatedThread.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\PipeServer.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Process.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\ProcessHandle.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Registry.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\RegistryKey.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\SCMClient.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Screen.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\SecurityAttributes.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\SecurityDescriptor.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\SecurityIdentifier.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Service.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\SharedMemory.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Shell.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\SystemException.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\SystemInformation.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\UipiControl.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\VersionInfo.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WinClipboard.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WinCommandLineArgs.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WinCursor.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WindowsApplication.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WindowsDisplays.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WindowsEvent.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WindowsEventEx.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WinHandles.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WinHooks.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WinProcessCommandLine.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WinStaLibrary.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WinTimeMillis.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\Workstation.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WsaStartup.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system\WTS.obj"
+     1>psapi.lib(PSAPI.DLL) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR이(가) Wtsapi32.lib(WTSAPI32.dll)에 이미 정의되어 있습니다. 초 정의가 무시됩니다.
+     1>psapi.lib(PSAPI.DLL) : warning LNK4221: 이 개체 파일은 이전에 정의되지 않은 공용 기호를 정의하지 않으므로 이 라이브러리를 사용하는 어떠한 링크 작업에도 사용되지 않습니다.
+         win-system.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\win-system.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\win-system\win-system.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:02:39.63

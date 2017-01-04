@@ -1,0 +1,36 @@
+﻿빌드 시작: 2015-09-23 오후 7:09:00
+     1>3 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\win-system\win-system.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /I. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\win-system\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\win-system\vc120.pdb" /Gd /TP /FC /errorReport:prompt AnonymousPipe.cpp AnonymousPipeFactory.cpp AutoImpersonator.cpp CtrlAltDelSimulator.cpp CurrentConsoleProcess.cpp DibSection.cpp DynamicLibrary.cpp Environment.cpp Impersonator.cpp InputInjector.cpp Keyboard.cpp LocalWindowsApplication.cpp NamedPipe.cpp
+         NamedPipe.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\namedpipe.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         LocalWindowsApplication.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\localwindowsapplication.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Keyboard.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\keyboard.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         InputInjector.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\inputinjector.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Impersonator.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\impersonator.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Environment.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\environment.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DynamicLibrary.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\dynamiclibrary.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DibSection.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\dibsection.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         CurrentConsoleProcess.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\currentconsoleprocess.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         CtrlAltDelSimulator.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\ctrlaltdelsimulator.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         AutoImpersonator.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\autoimpersonator.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         AnonymousPipeFactory.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\anonymouspipefactory.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         AnonymousPipe.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\win-system\anonymouspipe.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\win-system\vc120.pdb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         코드를 생성하고 있습니다...
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\win-system\win-system.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:05.51

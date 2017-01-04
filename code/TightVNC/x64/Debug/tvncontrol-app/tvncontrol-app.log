@@ -1,0 +1,36 @@
+﻿빌드 시작: 2015-09-23 오후 7:09:09
+     1>2 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\tvncontrol-app.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\tvncontrol-app\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\tvncontrol-app\vc120.pdb" /Gd /TP /errorReport:prompt AboutDialog.cpp ConnectCommand.cpp ConnectStringParser.cpp ControlApplication.cpp ControlAuth.cpp ControlAuthDialog.cpp ControlAuthException.cpp ControlCommand.cpp ControlCommandLine.cpp ControlGate.cpp ControlMessage.cpp ControlPipeName.cpp ControlProxy.cpp ControlTrayIcon.cpp DisconnectAllCommand.cpp MakeRfbConnectionCommand.cpp MakeTcpDispatcherConnCommand.cpp NamedPipeTransport.cpp Notificator.cpp OutgoingConnectionDialog.cpp ReloadConfigCommand.cpp RemoteException.cpp RfbClientInfo.cpp Transport.cpp
+     1>cl : 명령줄 warning D9028: 최소 다시 빌드에 실패했습니다. 정상 빌드로 되돌립니다.
+         AboutDialog.cpp
+     1>AboutDialog.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ConnectCommand.cpp
+     1>ConnectCommand.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ConnectStringParser.cpp
+     1>ConnectStringParser.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlApplication.cpp
+     1>ControlApplication.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlAuth.cpp
+     1>ControlAuth.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlAuthDialog.cpp
+     1>ControlAuthDialog.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlAuthException.cpp
+     1>ControlAuthException.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlCommand.cpp
+     1>ControlCommand.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlCommandLine.cpp
+     1>ControlCommandLine.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlGate.cpp
+     1>ControlGate.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlMessage.cpp
+     1>ControlMessage.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlPipeName.cpp
+     1>ControlPipeName.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ControlProxy.cpp
+     1>ControlProxy.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\tvncontrol-app\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\tvncontrol-app\tvncontrol-app.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:03.57

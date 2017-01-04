@@ -1,0 +1,21 @@
+﻿빌드 시작: 2015-09-23 오후 7:08:20
+     1>5 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\io-lib\io-lib.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\vc120.pdb" /Gd /TP /errorReport:prompt ByteArrayOutputStream.cpp
+         ByteArrayOutputStream.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib.lib" /NOLOGO /MACHINE:X64 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\BufferedOutputStream.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\ByteArrayInputStream.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\ByteArrayOutputStream.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\Channel.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\DataInputStream.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\DataOutputStream.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\InputStream.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\IOException.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib\OutputStream.obj"
+         io-lib.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\io-lib.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\io-lib\io-lib.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:06.18

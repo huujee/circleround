@@ -1,0 +1,63 @@
+﻿빌드 시작: 2015-09-23 오후 7:09:00
+     1>4 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\gui\gui.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\gui\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\gui\vc120.pdb" /Gd /TP /FC /errorReport:prompt BalloonTip.cpp BaseDialog.cpp BaseWindow.cpp CheckBox.cpp ComboBox.cpp CommonControlsEx.cpp Control.cpp DibFrameBuffer.cpp FilteredTextBox.cpp ImagedButton.cpp ListBox.cpp ListView.cpp Menu.cpp MessageWindow.cpp NotifyIcon.cpp NotifyIconWindow.cpp PaintWindow.cpp ProgressBar.cpp drawing\Bitmap.cpp drawing\BitmapGraphics.cpp drawing\Brush.cpp drawing\DeviceContext.cpp drawing\Graphics.cpp drawing\Icon.cpp drawing\Pen.cpp
+     1>cl : 명령줄 warning D9028: 최소 다시 빌드에 실패했습니다. 정상 빌드로 되돌립니다.
+         BalloonTip.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\balloontip.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         BaseDialog.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\basedialog.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         BaseWindow.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\basewindow.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         CheckBox.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\checkbox.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ComboBox.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\combobox.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         CommonControlsEx.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\commoncontrolsex.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Control.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\control.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DibFrameBuffer.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\dibframebuffer.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         FilteredTextBox.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\filteredtextbox.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ImagedButton.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\imagedbutton.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ListBox.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\listbox.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ListView.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\listview.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Menu.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\menu.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         MessageWindow.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\messagewindow.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         NotifyIcon.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\notifyicon.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         NotifyIconWindow.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\notifyiconwindow.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         PaintWindow.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\paintwindow.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         ProgressBar.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\progressbar.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Bitmap.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\drawing\bitmap.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         BitmapGraphics.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\drawing\bitmapgraphics.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         코드를 생성하고 있습니다...
+         컴파일하고 있습니다...
+         Brush.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\drawing\brush.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         DeviceContext.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\drawing\devicecontext.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Graphics.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\drawing\graphics.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Icon.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\drawing\icon.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         Pen.cpp
+     1>e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\gui\drawing\pen.cpp : fatal error C1041: 프로그램 데이터베이스 'e:\main\공개sw개발자대회\0_code\tightvnc-2.7.10\x64\debug\gui\vc120.idb'을(를) 열 수 없습니다. 여러 CL.EXE에서 동일한 .PDB 파일에 쓰는 경우 /FS를 사용하십시오.
+         코드를 생성하고 있습니다...
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\gui\gui.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:06.46

@@ -1,0 +1,22 @@
+﻿빌드 시작: 2015-09-22 오후 6:10:48
+     1>2 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\file-lib\file-lib.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EOFException.cpp File.cpp FileNotFoundException.cpp WinFile.cpp WinFileChannel.cpp
+         WinFileChannel.cpp
+         WinFile.cpp
+         FileNotFoundException.cpp
+         File.cpp
+         EOFException.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib.lib" /NOLOGO "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib\EOFException.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib\File.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib\FileNotFoundException.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib\WinFile.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib\WinFileChannel.obj"
+         file-lib.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\file-lib.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\file-lib\file-lib.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:27.22

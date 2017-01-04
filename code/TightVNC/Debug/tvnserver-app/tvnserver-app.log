@@ -1,0 +1,41 @@
+﻿빌드 시작: 2015-09-23 오후 7:00:19
+     1>2 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\tvnserver-app\tvnserver-app.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt WinEventLogWriter.cpp
+         WinEventLogWriter.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app.lib" /NOLOGO "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\AdditionalActionApplication.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\AuthTracker.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\ConnectToTcpDispatcherThread.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\ControlAppAuthenticator.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\ControlClient.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\ControlServer.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\CrashHook.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\DesktopServerApplication.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\DesktopServerCommandLine.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\ExtraRfbServers.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\NamingDefs.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\OutgoingRfbConnectionThread.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\QueryConnectionApplication.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\QueryConnectionCommandLine.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\QueryConnectionDialog.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\RfbClientManager.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\RfbClientManagerEventListener.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\RfbServer.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\ServerCommandLine.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\ServiceControlApplication.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\ServiceControlCommandLine.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\SessionChangesWatcher.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\TvnServer.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\TvnServerApplication.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\TvnServerHelp.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\TvnServerListener.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\TvnService.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\WinEventLogWriter.obj"
+         "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app\WsConfigRunner.obj"
+         tvnserver-app.vcxproj -> E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tvnserver-app.lib
+     1>"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\tvnserver-app\tvnserver-app.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:35.93

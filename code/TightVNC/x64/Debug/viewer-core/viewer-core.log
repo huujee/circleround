@@ -1,0 +1,21 @@
+﻿빌드 시작: 2015-09-23 오후 7:06:21
+     1>5 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\viewer-core\viewer-core.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\viewer-core\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\x64\Debug\viewer-core\vc120.pdb" /Gd /TP /errorReport:prompt AuthHandler.cpp CapabilitiesManager.cpp CapsContainer.cpp CoreEventsAdapter.cpp CursorPainter.cpp DecoderOfRectangle.cpp FbUpdateNotifier.cpp FileTransferCapability.cpp LastRectDecoder.cpp PseudoDecoder.cpp RawDecoder.cpp RemoteViewerCore.cpp RfbClientToServerMessage.cpp RfbCutTextEventClientMessage.cpp RfbFramebufferUpdateRequestClientMessage.cpp RfbKeyEventClientMessage.cpp RfbPointerEventClientMessage.cpp RfbSetEncodingsClientMessage.cpp RfbSetPixelFormatClientMessage.cpp TcpConnection.cpp VncAuthentication.cpp CompressionLevel.cpp CopyRectDecoder.cpp Decoder.cpp DecoderStore.cpp DesktopSizeDecoder.cpp HexTileDecoder.cpp JpegDecompressor.cpp JpegQualityLevel.cpp PointerPosDecoder.cpp RichCursorDecoder.cpp RreDecoder.cpp TightDecoder.cpp VncAuthenticationHandler.cpp ZrleDecoder.cpp
+         AuthHandler.cpp
+         CapabilitiesManager.cpp
+         CapsContainer.cpp
+         CoreEventsAdapter.cpp
+         CursorPainter.cpp
+         DecoderOfRectangle.cpp
+         FbUpdateNotifier.cpp
+         FileTransferCapability.cpp
+         LastRectDecoder.cpp
+         PseudoDecoder.cpp
+         RawDecoder.cpp
+         RemoteViewerCore.cpp
+         RfbClientToServerMessage.cpp
+         RfbCutTextEventClientMessage.cpp
+         RfbFramebufferUpdateRequestClientMessage.cpp
+         RfbKeyEventClientMessage.cpp
+         RfbPointerEventClientMessage.cpp

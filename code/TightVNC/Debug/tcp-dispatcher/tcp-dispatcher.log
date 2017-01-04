@@ -1,0 +1,5 @@
+﻿빌드 시작: 2015-09-22 오후 6:11:57
+     1>5 노드의 "E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\tcp-dispatcher\tcp-dispatcher.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.. /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tcp-dispatcher\\" /Fd"E:\Main\공개SW개발자대회\0_code\tightvnc-2.7.10\Debug\tcp-dispatcher\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TcpDispatcherInitializer.cpp
+         TcpDispatcherInitializer.cpp
