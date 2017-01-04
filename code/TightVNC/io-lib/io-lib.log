@@ -1,0 +1,30 @@
+﻿빌드 시작: 2015-06-15 오전 12:46:55
+     1>2 노드의 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\io-lib\io-lib.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\\" /Fd"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\vc120.pdb" /Gd /TP /errorReport:prompt BufferedOutputStream.cpp ByteArrayInputStream.cpp ByteArrayOutputStream.cpp Channel.cpp DataInputStream.cpp DataOutputStream.cpp InputStream.cpp IOException.cpp OutputStream.cpp
+         OutputStream.cpp
+         IOException.cpp
+         InputStream.cpp
+         DataOutputStream.cpp
+         DataInputStream.cpp
+         Channel.cpp
+         ByteArrayOutputStream.cpp
+         ByteArrayInputStream.cpp
+         BufferedOutputStream.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib.lib" /NOLOGO /MACHINE:X64 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\BufferedOutputStream.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\ByteArrayInputStream.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\ByteArrayOutputStream.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\Channel.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\DataInputStream.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\DataOutputStream.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\InputStream.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\IOException.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib\OutputStream.obj"
+         io-lib.vcxproj -> C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\io-lib.lib
+     1>"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\io-lib\io-lib.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:06.23

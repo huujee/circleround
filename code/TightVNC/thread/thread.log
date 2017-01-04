@@ -1,0 +1,28 @@
+﻿빌드 시작: 2015-06-15 오전 12:46:52
+     1>2 노드의 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\thread\thread.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\\" /Fd"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\vc120.pdb" /Gd /TP /FC /errorReport:prompt AutoLock.cpp DesktopSelector.cpp GlobalMutex.cpp GuiThread.cpp LocalMutex.cpp Thread.cpp ThreadCollector.cpp ZombieKiller.cpp
+         ZombieKiller.cpp
+         ThreadCollector.cpp
+         Thread.cpp
+         LocalMutex.cpp
+         GuiThread.cpp
+         GlobalMutex.cpp
+         DesktopSelector.cpp
+         AutoLock.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread.lib" /NOLOGO /MACHINE:X64 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\AutoLock.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\DesktopSelector.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\GlobalMutex.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\GuiThread.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\LocalMutex.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\Thread.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\ThreadCollector.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread\ZombieKiller.obj"
+         thread.vcxproj -> C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\thread.lib
+     1>"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\thread\thread.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:08.92

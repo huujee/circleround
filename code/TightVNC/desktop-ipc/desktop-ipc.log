@@ -1,0 +1,44 @@
+﻿빌드 시작: 2015-06-15 오전 12:35:17
+     1>9 노드의 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\desktop-ipc\desktop-ipc.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\\" /Fd"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\vc120.pdb" /Gd /TP /errorReport:prompt BlockingGate.cpp BlockingInputGate.cpp BlockingOutputGate.cpp ClientListener.cpp ConfigServer.cpp DesktopConfigClient.cpp DesktopServerProto.cpp DesktopSrvDispatcher.cpp GateKicker.cpp GateKickHandler.cpp ReconnectException.cpp ReconnectingChannel.cpp UpdateHandlerClient.cpp UpdateHandlerServer.cpp UserInputClient.cpp UserInputServer.cpp
+         UserInputServer.cpp
+         UserInputClient.cpp
+         UpdateHandlerServer.cpp
+         UpdateHandlerClient.cpp
+         ReconnectingChannel.cpp
+         ReconnectException.cpp
+         GateKickHandler.cpp
+         GateKicker.cpp
+         DesktopSrvDispatcher.cpp
+         DesktopServerProto.cpp
+         DesktopConfigClient.cpp
+         ConfigServer.cpp
+         ClientListener.cpp
+         BlockingOutputGate.cpp
+         BlockingInputGate.cpp
+         BlockingGate.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc.lib" /NOLOGO /MACHINE:X64 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\BlockingGate.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\BlockingInputGate.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\BlockingOutputGate.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\ClientListener.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\ConfigServer.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\DesktopConfigClient.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\DesktopServerProto.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\DesktopSrvDispatcher.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\GateKicker.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\GateKickHandler.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\ReconnectException.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\ReconnectingChannel.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\UpdateHandlerClient.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\UpdateHandlerServer.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\UserInputClient.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc\UserInputServer.obj"
+         desktop-ipc.vcxproj -> C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\desktop-ipc.lib
+     1>"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\desktop-ipc\desktop-ipc.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:11.22

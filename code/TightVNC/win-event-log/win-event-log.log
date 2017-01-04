@@ -1,0 +1,19 @@
+﻿빌드 시작: 2015-06-15 오전 12:35:07
+     1>2 노드의 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\win-event-log\win-event-log.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>_MessageCompiler:
+         cmd.exe /C "C:\Users\Administrator\AppData\Local\Temp\tmpba919cd9d8f24d77ad657d380992e7c3.cmd"
+         mc.exe -U   MessageProvider.mc
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\win-event-log\\" /Fd"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\win-event-log\vc120.pdb" /Gd /TP /errorReport:prompt WinEventLog.cpp
+         WinEventLog.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\win-event-log\MessageProvider.res" MessageProvider.rc 
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\win-event-log.lib" /NOLOGO /MACHINE:X64 /MACHINE:X64 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\win-event-log\MessageProvider.res"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\win-event-log\WinEventLog.obj"
+         win-event-log.vcxproj -> C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\win-event-log.lib
+     1>"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\win-event-log\win-event-log.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.26

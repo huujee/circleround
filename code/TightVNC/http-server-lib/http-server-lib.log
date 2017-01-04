@@ -1,0 +1,28 @@
+﻿빌드 시작: 2015-06-15 오전 12:35:22
+     1>4 노드의 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\http-server-lib\http-server-lib.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib\\" /Fd"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib\vc120.pdb" /Gd /TP /errorReport:prompt AppletParameter.cpp ArgList.cpp HttpClient.cpp HttpReply.cpp HttpRequest.cpp HttpRequestHandler.cpp HttpServer.cpp
+         HttpServer.cpp
+         HttpRequestHandler.cpp
+         HttpRequest.cpp
+     1>HttpRequest.cpp(97): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(304) : 'sscanf' 선언을 참조하십시오.
+         HttpReply.cpp
+         HttpClient.cpp
+         ArgList.cpp
+         AppletParameter.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib.lib" /NOLOGO /MACHINE:X64 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib\AppletParameter.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib\ArgList.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib\HttpClient.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib\HttpReply.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib\HttpRequest.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib\HttpRequestHandler.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib\HttpServer.obj"
+         http-server-lib.vcxproj -> C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\http-server-lib.lib
+     1>"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\http-server-lib\http-server-lib.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:09.50

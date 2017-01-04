@@ -1,0 +1,28 @@
+﻿빌드 시작: 2015-06-15 오전 12:35:31
+     1>2 노드의 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\log-server\log-server.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.. /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\\" /Fd"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\vc120.pdb" /Gd /TP /errorReport:prompt ClientLogger.cpp ConnectionTimer.cpp ListenLogServer.cpp LogConn.cpp LogLevelSender.cpp LogServer.cpp SecurityPipeClient.cpp SecurityPipeServer.cpp
+         SecurityPipeServer.cpp
+         SecurityPipeClient.cpp
+         LogServer.cpp
+         LogLevelSender.cpp
+         LogConn.cpp
+         ListenLogServer.cpp
+         ConnectionTimer.cpp
+         ClientLogger.cpp
+         코드를 생성하고 있습니다...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server.lib" /NOLOGO /MACHINE:X64 "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\ClientLogger.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\ConnectionTimer.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\ListenLogServer.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\LogConn.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\LogLevelSender.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\LogServer.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\SecurityPipeClient.obj"
+         "C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server\SecurityPipeServer.obj"
+         log-server.vcxproj -> C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\x64\Debug\log-server.lib
+     1>"C:\Users\Administrator\Desktop\융캡\tightvnc-2.7.10\log-server\log-server.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:23.20
